@@ -1,6 +1,6 @@
-Titulo: Visualização de Dados
+﻿Titulo: Visualização de Dados
 
-Mais importante que ter o dado, é conseguir entender e visualizar os dados salvos.
+Mais importante que ter o dado, é conseguir aprender e visualizar os dados salvos.
 
 Ola, esse é um teste.
 
