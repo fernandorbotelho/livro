@@ -3,3 +3,5 @@ Titulo: Visualização de Dados
 Mais importante que ter o dado, é conseguir entender e visualizar os dados salvos.
 
 Ola, esse é um teste.
+
+Todo dado é dado, até que se prove o contrário. [silb]
